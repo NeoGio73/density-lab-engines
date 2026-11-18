@@ -1,0 +1,106 @@
+[
+ {
+  "url": "CubeCheck/Binaries/Wasm/CubeCheck-Wasm-Shipping.js",
+  "size": 231288,
+  "sha1": "5cdd0491e0a832f4e32af9fcbce5a01eb631c096",
+  "br": 45055
+ },
+ {
+  "url": "CubeCheck/Binaries/Wasm/CubeCheck-Wasm-Shipping.wasm",
+  "size": 139378409,
+  "sha1": "81817ee1efc1bbc12a4d0a820119796beb834a12",
+  "br": 38718176,
+  "code": "938664a99c8b742cd0644ebc84a88a981d142193",
+  "parts": [
+   {
+    "url": "CubeCheck/Binaries/Wasm/CubeCheck-Wasm-Shipping.wasm.gz",
+    "sha1": "46a278505546bf65ae7d8e0517ebd378ff183a9a"
+   }
+  ],
+  "encoding": "gzip"
+ },
+ {
+  "url": "CubeCheck/Content/Paks/CubeCheck-Wasm.pak",
+  "size": 9114651,
+  "sha1": "834a702e2fa7df601b31bc903450364f2b15366e",
+  "br": 7641106
+ },
+ {
+  "url": "CubeCheck/Content/Paks/CubeCheck-Wasm.ucas",
+  "size": 15953216,
+  "sha1": "2ac0eb1214584b52af3bb51695464ae5b6fb494c",
+  "br": 0
+ },
+ {
+  "url": "CubeCheck/Content/Paks/CubeCheck-Wasm.utoc",
+  "size": 87840,
+  "sha1": "d3fdfe9246938c5f609c099fd9a4cbf7d3f08f89",
+  "br": 46847
+ },
+ {
+  "url": "CubeCheck/Content/Paks/global.ucas",
+  "size": 16,
+  "sha1": "e129f27c5103bc5cc44bcdf0a15e160d445066ff",
+  "br": 0
+ },
+ {
+  "url": "CubeCheck/Content/Paks/global.utoc",
+  "size": 206,
+  "sha1": "feefe947075479c18ecefc4229e5e36a5e043313",
+  "br": 0
+ },
+ {
+  "url": "CubeCheck/Content/ShaderArchive-CubeCheck-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode",
+  "size": 1851253,
+  "sha1": "f4bc33e3dd910a02bc0f482280c91ec641b4958d",
+  "br": 1026840
+ },
+ {
+  "url": "CubeCheck/Content/ShaderArchive-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode",
+  "size": 5682546,
+  "sha1": "3adfa03cad004b059eadc8e2330b2660bf3d0202",
+  "br": 2755778
+ },
+ {
+  "url": "CubeCheck/Content/ShaderAssetInfo-CubeCheck-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json",
+  "size": 13948,
+  "sha1": "6674a5669158370cf44dd0eaf9101fe9a616fc0d",
+  "br": 2134
+ },
+ {
+  "url": "CubeCheck/Content/ShaderAssetInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json",
+  "size": 18290,
+  "sha1": "976dfc1664a977c96093d60cc2abdae98a954a08",
+  "br": 1959
+ },
+ {
+  "url": "CubeCheck/Content/ShaderTypeInfo-CubeCheck-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo",
+  "size": 7528,
+  "sha1": "3b674eea272bf8ab6363611386c0bc67d6f9ac35",
+  "br": 1102
+ },
+ {
+  "url": "CubeCheck/Content/ShaderTypeInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo",
+  "size": 23636,
+  "sha1": "2a592415009c0cdae56eb560e887055ac543d558",
+  "br": 7325
+ },
+ {
+  "url": "Engine/Config/StagedBuild_CubeCheck.ini",
+  "size": 3,
+  "sha1": "57218c316b6921e2cd61027a2387edc31a2d9471",
+  "br": 0
+ },
+ {
+  "url": "Engine/Content/Renderer/TessellationTable.bin",
+  "size": 259568,
+  "sha1": "3a3402ca2d3531ab8352c818ea1181288bd78c72",
+  "br": 100032
+ },
+ {
+  "url": "Engine/GlobalShaderCache-SP_WEBGPU_ES3_1_DEFERRED.bin",
+  "size": 855282,
+  "sha1": "e7606f5d0281a5d0eae0885846fd3dbbc793d230",
+  "br": 102637
+ }
+]
