@@ -1,0 +1,64 @@
+[
+ {
+  "url": "DensityLab/Binaries/Wasm/DensityLab-Wasm-Shipping.js",
+  "size": 232698,
+  "sha1": "636704c338b5b6d217829312a3a8b4887f558756",
+  "br": 45347
+ },
+ {
+  "url": "DensityLab/Binaries/Wasm/DensityLab-Wasm-Shipping.wasm",
+  "size": 139460345,
+  "sha1": "38cdc03156f49db690aa9d5491b3fe15d9c3525b",
+  "br": 38747865,
+  "code": "aa51e5d69800ce7fd506b04354ab62fa18f9721b",
+  "parts": [
+   {
+    "url": "DensityLab/Binaries/Wasm/DensityLab-Wasm-Shipping.wasm.gz",
+    "sha1": "43bc5031f594edfd4211db00d2bd6819352eb08f"
+   }
+  ],
+  "encoding": "gzip"
+ },
+ {
+  "url": "DensityLab/Content/Paks/DensityLab-Wasm.pak",
+  "size": 9118599,
+  "sha1": "5452ff061ba7f4577a39204d0c24e6810a31d5be",
+  "br": 7645420
+ },
+ {
+  "url": "DensityLab/Content/Paks/DensityLab-Wasm.ucas",
+  "size": 17657488,
+  "sha1": "528a388118887b95dd194454d98a032b402d90b3",
+  "br": 0
+ },
+ {
+  "url": "DensityLab/Content/Paks/DensityLab-Wasm.utoc",
+  "size": 97990,
+  "sha1": "d82da20771ff323842ca31465e02139312cfd621",
+  "br": 52270
+ },
+ {
+  "url": "DensityLab/Content/Paks/global.ucas",
+  "size": 16,
+  "sha1": "e129f27c5103bc5cc44bcdf0a15e160d445066ff",
+  "br": 0
+ },
+ {
+  "url": "DensityLab/Content/Paks/global.utoc",
+  "size": 206,
+  "sha1": "feefe947075479c18ecefc4229e5e36a5e043313",
+  "br": 0
+ },
+ {
+  "url": "Engine/Config/StagedBuild_DensityLab.ini",
+  "size": 3,
+  "sha1": "57218c316b6921e2cd61027a2387edc31a2d9471",
+  "br": 0
+ },
+ {
+  "url": "Engine/Content/Renderer/TessellationTable.bin",
+  "size": 259568,
+  "sha1": "3a3402ca2d3531ab8352c818ea1181288bd78c72",
+  "br": 100032
+ }
+]
